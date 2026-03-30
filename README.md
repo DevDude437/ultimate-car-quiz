@@ -1,14 +1,7 @@
 # Ultimate Car Quiz 🚘 🛻
 Test your knowlege on cars with this 10 question quiz. This application is coded in Python for use in the Command Line.
 # Installation Instructions (Linux) 💻
-Download the file ultimate_car_quiz from the 'Releases' page to Downloads. Be sure Python 3 is installed on your system. Open the terminal, and run the following commands:
-`nano ~/run_ultimate_car_quiz.sh`
-Now add the following comand:
-`#!/bin/bash cd ~/Downloads python3 ultimate_car_quiz.py`
-Save and exit by typing CTRL + X then Y and ENTER to save. Run:
-`chmod +x ~/run_ultimate_car_quiz.sh`
-Now whenever you want to use the program, just open a terminal and run:
-`~/run_ultimate_car_quiz.sh`
+Download the file ultimate_car_quiz from the 'Releases' page to Downloads on your computer. Be sure Python 3 is installed on your system. Open the terminal, and navigate to your Downloads folder by typing `cd ~/Downloads` then type `python3 password_picker.py` and the program should open.
 # Installation Instructions (Windows) 💻
 Download the file ultimate_car_quiz from the 'Releases' page to Downloads. Make sure Python 3 is installed. Go to your 'Downloads' folder, and double clicking the file should  open the program.
 # Contributing
