@@ -5,5 +5,5 @@ Download the file ultimate_car_quiz from the 'Releases' page to Downloads on you
 # Installation Instructions (Windows) 💻
 Download the file ultimate_car_quiz from the 'Releases' page to Downloads. Make sure Python 3 is installed. Go to your 'Downloads' folder, and double clicking the file should  open the program.
 # Contributing
-If you would like to contribute to this project, email me at: devdude437@duck.com
+If you would like to contribute to this project, email me at: devdude437@protonmail.com
 
